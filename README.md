@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luis-martinez
 - 👀 I’m interested in tech, and cook.
-- 🌱 I’m currently learning to became a Full Stack Developer.
+- 🌱 I’m currently learning to become a Full Stack Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
